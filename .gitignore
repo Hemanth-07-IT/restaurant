@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific - generated files
+restaurant_reviews.db
+sentiment_model.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+nul
+
+# NLTK data (downloaded automatically)
+nltk_data/
